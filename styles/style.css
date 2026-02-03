@@ -106,7 +106,7 @@ ol {
 .search-form__fieldset-title {
   font-weight: 400;
   font-size: 18px;
-  padding-bottom: 5px; 
+  padding-bottom: 5px;
 }
 
 .search-form__label {
@@ -338,7 +338,7 @@ ol {
 }
 
 
-.error{
+.error {
   position: absolute;
   inset: 0;
   display: flex;
